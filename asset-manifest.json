@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactliveweb/static/css/main.d9180b5c.css",
+    "main.js": "/reactliveweb/static/js/main.b73771bd.js",
+    "static/media/software-development.jpg": "/reactliveweb/static/media/software-development.bb45f9d7080827a90059.jpg",
+    "static/media/marketing.jpg": "/reactliveweb/static/media/marketing.f93b05206a8f393663d1.jpg",
+    "static/media/app-development.jpg": "/reactliveweb/static/media/app-development.ed12e84d937593c0a7f3.jpg",
+    "static/media/digital-marketing.jpg": "/reactliveweb/static/media/digital-marketing.2061a2dc4fbd733c2169.jpg",
+    "static/media/web-development.jpg": "/reactliveweb/static/media/web-development.5fcb5ca2e6567e1da489.jpg",
+    "static/media/about.jpg": "/reactliveweb/static/media/about.4fd39093cab28af9c242.jpg",
+    "static/media/android-development.jpg": "/reactliveweb/static/media/android-development.10415744af63cfffdcf2.jpg",
+    "static/media/img1-removebg-preview.png": "/reactliveweb/static/media/img1-removebg-preview.d650bf1930fd595151dc.png",
+    "index.html": "/reactliveweb/index.html",
+    "main.d9180b5c.css.map": "/reactliveweb/static/css/main.d9180b5c.css.map",
+    "main.b73771bd.js.map": "/reactliveweb/static/js/main.b73771bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9180b5c.css",
+    "static/js/main.b73771bd.js"
+  ]
+}
